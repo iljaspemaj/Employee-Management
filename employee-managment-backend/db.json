@@ -1,0 +1,103 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Web Devs",
+      "employee_list": [
+        {
+          "id": 1,
+          "name": "Jane Doe",
+          "age": 30,
+          "address": "Ann Street",
+          "email": "janedoe@hotmail.com",
+          "phone": "+1-555-123-4567"
+        },
+        {
+          "id": 2,
+          "name": "John Smith",
+          "age": 28,
+          "address": "John Street",
+          "email": "johnsmith@gmail.com",
+          "phone": "+1-555-987-6543"
+        },
+        {
+          "id": 3,
+          "name": "Andrea Murthi",
+          "age": 32,
+          "address": "Alice Avenue",
+          "email": "andrea1@hotmail.com",
+          "phone": "+1-555-567-8901"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sales",
+      "employee_list": [
+        {
+          "id": 4,
+          "name": "Bob Brown",
+          "age": 35,
+          "address": "Bob Street",
+          "email": "bobbrwn@outlook.com",
+          "phone": "+1-555-234-5678"
+        },
+        {
+          "id": 5,
+          "name": "Mary Davis",
+          "age": 31,
+          "address": "Mary Avenue",
+          "email": "marydavis@hotmail.com",
+          "phone": "+1-555-901-2345"
+        },
+        {
+          "id": 6,
+          "name": "David Wilson",
+          "age": 33,
+          "address": "David Street",
+          "email": "davidwilson@gmail.com",
+          "phone": "+1-555-678-9012"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Python Department",
+      "employee_list": [
+        {
+          "id": 7,
+          "name": "Emily Thompson",
+          "age": 29,
+          "address": "Emily Street",
+          "email": "emilythompson@yahoo.com",
+          "phone": "+1-555-345-6789"
+        },
+        {
+          "id": 8,
+          "name": "Michael Lee",
+          "age": 34,
+          "address": "Michael Avenue",
+          "email": "michaellee@gmail.com",
+          "phone": "+1-555-456-7890"
+        },
+        {
+          "id": 9,
+          "name": "Sarah Johnson",
+          "age": 30,
+          "address": "Sarah Street",
+          "email": "sarahjohnson@hotmail.com",
+          "phone": "+1-555-123-4567"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "HR",
+      "employee_list": []
+    }
+  ],
+  "lastUsedId": {
+    "departmentId": 7,
+    "employeeId": 10
+  }
+}
